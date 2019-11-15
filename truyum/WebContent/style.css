@@ -1,0 +1,255 @@
+@charset "ISO-8859-1";
+/* Main styles*/
+body {
+                height:200%;
+                width:100%;
+                margin:0px;
+                position:static;
+}
+
+header {
+                margin-top:0;
+                background-color:#305496;
+                padding-bottom:300px;
+               height:75%;
+}
+
+/*article style*/
+.cust-article {
+                margin:150px auto;
+}
+
+.admin-article {
+                margin:167px auto;
+}
+
+.cust-article {
+                margin:235px auto;
+}
+
+.status-article {
+                margin:350px auto;
+}
+
+table {
+                margin-left:auto;
+                margin-right:auto;
+}
+
+th {
+                font-size:30px;
+                text-align:center;
+                font-family:arial;              
+}
+
+td {
+                font-size:28px;
+                font-family:arial;              
+                text-align:center;
+                
+}
+
+img {
+                padding-left: 40px;
+                padding-top: 14px;
+                width:60px;
+}
+
+/* admin page style */
+#span1 {
+                color:white;
+                font-size:40px;
+                padding-left:80px;
+                float:left;
+                padding-top:23px;
+                padding-bottom:7px;
+                font-family:arial;
+}
+
+/* Nav button*/
+#movie-menu {
+                color:white;
+                float: right;
+                padding-top:30px;
+                padding-right:60px;
+                font-size: 28px;
+                font-family:arial;
+}
+
+#cust-favorites {
+color:white;
+float: right;
+padding-top:30px;
+padding-right:220px;
+font-size: 28px;
+font-family:arial;
+}
+
+#movie-menu-items {
+    margin-top: 121px;
+    padding-left: 16%;
+    font-family:arial;
+    font-size: 30px;
+}
+
+/* Main class styles*/
+.link-color {
+                color:black;
+}
+
+.namerow {
+                float: left;
+                padding-right:200px;
+
+}
+
+.bo {
+                text-align:right;
+}
+
+.sub-head {
+                padding-left:18%;
+                font-size:40px;
+                font-family:arial;
+}
+
+.admin-head {
+                font-size:40px;
+                padding-left:9%;
+}
+
+.edit-head {
+                font-size:40px;
+                padding-left:29%;
+}
+
+.fav-head {
+                font-size:40px;
+                padding-left:26%;
+}
+.fav-style {
+                font-weight:bold;
+                font-size:28px;
+                
+}
+
+.fav-para {
+                padding-left:26%;
+                font-size:28px;
+}
+
+.fav-notify-head {
+                padding-left:26%;
+                font-size:40px;
+}
+
+#movie-menu-items {
+    margin-top: 121px;
+    padding-left: 18%;
+    font-family:arial;
+    font-size: 30px;
+}
+
+#edit-menuitems {
+    margin-top: 121px;
+    padding-left: 34%;
+    font-family:arial;
+    font-size: 30px;
+}
+
+#customer-menu {
+                float:right;
+                color:white;
+                padding-top:30px;
+                padding-right:40px;
+                font-size: 28px;
+                font-family:arial;
+}
+/* edit table */
+#edit-td {
+                text-align:left;
+}
+
+#edit-movie-title {
+                width: 780px;
+                height: 35px;
+}
+
+#edit-movie-gross {
+                width: 193px; 
+                height: 48px
+}
+
+#edit-movie-active-yes{
+                height: 32px;
+                width: 26px;
+}
+
+#edit-movie-active-no {
+                height: 26px; 
+                width: 26px;
+}
+
+#movie-teaser {
+                width: 50px;
+                height: 35px
+}
+
+#edit-item-active-yes {
+                height: 32px;
+                width: 26px;
+}
+
+#edit-movie-date-of-launch {
+                height: 44px; 
+                width: 203px
+}
+
+#edit-movie-genre {
+                font-size:25px;
+                height: 40px; 
+                width: 135px
+}
+
+#notification-message {
+                padding-left:765px;
+                color:#15C815;
+                font-size:30px;
+                text-align:center;
+}
+
+#status-message {
+                color:#15C815;
+                font-size:25px;
+                padding-left:18%;
+}
+
+#empty-message {
+                color:#bfbfbf;
+                font-size:25px;
+                padding:400px;
+                font-weight: bold;
+}
+#submit {    
+	background-color: #305496;
+    color: white;
+    width: 235px;
+    height: 75px;
+    float: left;
+    font-size: 30px;
+}
+
+/*Footer*/
+.footer-cont {
+                color:black;
+                font-size:25px;
+                
+}
+
+footer {
+                background-color: #bfbfbf; 
+                padding:4px 10px 4px 10px;
+                position:relative;
+                bottom:0;
+                
+}
